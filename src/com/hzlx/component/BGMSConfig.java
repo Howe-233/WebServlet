@@ -18,4 +18,5 @@ public class BGMSConfig {
     public static final String BUSINESS_INFO_ALL = "businessInfoAll";
     public final static String KEYWORD="keyword";
     public static final String USER_INFO_ALL = "allUserInfoList";
+    public static final String USER_INFO_ALL_AAAA = "allUserInfoList";
 }
